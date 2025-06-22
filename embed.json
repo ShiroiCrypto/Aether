@@ -1,0 +1,14 @@
+{
+    "embed_padrao": {
+        "title": "═════════ ☁️  AETHER  ☁️ ═════════",
+        "description": "🌌 {TÍTULO DO EVENTO OU AVISO}\n\n{Descrição elegante e direta do conteúdo}\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔹 Powered by AETHER",
+        "color": "#9D4EDD"
+    },
+    "image_thumb": "",
+    "footer_icon": "https://imgur.com/VrBHzHH.png",
+    "set_image": "https://imgur.com/VrBHzHH.png",
+    "footer_text": "",
+    "description": "",
+    "author_name": "",
+    "author_icon": ""
+}
