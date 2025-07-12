@@ -1,7 +1,7 @@
 {
     "system": true,
-    "color_embed": "#8874ff",
-    "prefixo": "u!",
+    "color_embed": "#9D4EDD",
+    "prefixo": "a!",
     "definition": {
         "functionsTicket": {
             "notifyuser": true,
@@ -22,10 +22,10 @@
         "mensagem": {
             "content": false,
             "embeds": {
-                "title": "<:UmbrellaTS4:1125258322665279509> Umbrella Peds <:UmbrellaTS4:1125258322665279509>",
-                "desc": "<:UmbrellaTraco:1125258661921566782> **Central de Atendimento Umbrella Peds** <:UmbrellaTraco:1125258661921566782>\n## <a:UmbrellaVerify:1125258706062413835> **Sejam bem-vindos(as) a central de atendimento da Umbrella Peds <:UmbrellaTS4:1125258322665279509>**\n\n<a:UmbrellaVerify:1125258706062413835> **Abaixo você vera algumas opções, onde você consegue escolher a que mais se encaixe na sua necessidade.**\n\n<:UmbrellaAlerta:1125259474316300338> **Ticket**:\n<:SetaUmbrella:996203109997096990> Seg a Qua: 13hrs às 18hrs.\n<:SetaUmbrella:996203109997096990> Quinta a Sexta: 13hrs às 21hrs.\n<:SetaUmbrella:996203109997096990> Sábado: 13hrs às 17hrs.\n\n### <:bolinhaUmbrella:1125258761360121977> **Nossa equipe NÃO faz atendimento nos feriados.** <:bolinhaUmbrella:1125258761360121977>",
-                "banner": "https://imgur.com/J6oRj6N.png",
-                "cor": "#8874ff"
+                "title": "☁️ AETHER ☁️",
+                "desc": "═════════ ☁️  AETHER  ☁️ ═════════\n\n🌌 **Central de Atendimento Aether**\n\n✨ Seja bem-vindo(a) à central de atendimento do Aether!\n\n🚀 Escolha abaixo a opção que melhor se encaixa na sua necessidade.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔹 Powered by AETHER\n\n**Horários de atendimento:**\nSeg a Qua: 13h às 18h\nQuinta a Sexta: 13h às 21h\nSábado: 13h às 17h\n\n:white_check_mark: Nossa equipe NÃO faz atendimento nos feriados.",
+                "banner": "https://i.imgur.com/1Q9Z1ZB.png",
+                "cor": "#9D4EDD"
             },
             "msg": {
                 "content": "Não Definido",
@@ -34,34 +34,34 @@
         },
         "functions": {
             "Exclusivo": {
-                "predesc": "Compre seus peds exclusivos aqui!",
-                "desc": "## <:Heart2Umbrella:996202849266569247> Exclusivos\n\n> **A equipe já está ciente da abertura de seu ticket, em breve algum de nossos colaboradores entrará em contato com você**\n\n* __**No mínimo 3 dias úteis para entrega!**__\n\n<:bolinhaUmbrella:1125258761360121977> **ALGUMAS REGRAS IMPORTANTES** <:bolinhaUmbrella:1125258761360121977>\n\n> __Não flodar no ticket__\n> __Não marque a staff muitas vezes__\n> __Não abra ticket sem necessidade__\n> __Envie para nós referencias do que deseja!__",
-                "banner": "https://imgur.com/J6oRj6N.png",
-                "emoji": "<:Heart2Umbrella:996202849266569247>"
+                "predesc": "Adquira recursos exclusivos do Aether!",
+                "desc": "## 💎 Exclusivos\n\n> **Sua solicitação foi recebida! Nossa equipe entrará em contato em breve.**\n\n*__Prazo médio de entrega: até 3 dias úteis__*\n\n:star: **Regras Importantes** :star:\n- Não flode no ticket\n- Não marque a staff repetidamente\n- Não abra ticket sem necessidade\n- Envie referências claras do que deseja!",
+                "banner": "https://i.imgur.com/1Q9Z1ZB.png",
+                "emoji": "💎"
             },
             "Free": {
-                "predesc": "Resgate seus itens free!",
-                "desc": "## <:AmongUmbrella:996202976681132124> Free\n\n> **A equipe já está ciente da abertura de seu ticket, em breve algum de nossos colaboradores entrará em contato com você**\n\n* __**No mínimo 3 dias úteis para entrega!**__\n\n<:bolinhaUmbrella:1125258761360121977> **ALGUMAS REGRAS IMPORTANTES** <:bolinhaUmbrella:1125258761360121977>\n\n> __Não flodar no ticket__\n> __Não marque a staff muitas vezes__\n> __Não abra ticket sem necessidade__",
-                "banner": "https://imgur.com/J6oRj6N.png",
-                "emoji": "<:AmongUmbrella:996202976681132124>"
+                "predesc": "Resgate seus benefícios gratuitos!",
+                "desc": "## 🎁 Free\n\n> **Sua solicitação foi recebida! Nossa equipe entrará em contato em breve.**\n\n*__Prazo médio de entrega: até 3 dias úteis__*\n\n:star: **Regras Importantes** :star:\n- Não flode no ticket\n- Não marque a staff repetidamente\n- Não abra ticket sem necessidade",
+                "banner": "https://i.imgur.com/1Q9Z1ZB.png",
+                "emoji": "🎁"
             },
             "Duvidas e Parcerias": {
-                "predesc": "Tire suas duvidas aqui e feche parcerias aqui!",
-                "desc": "## <a:AlertaUmbrella:996202838227157042> Duvidas\n\n> **A equipe já está ciente da abertura de seu ticket, em breve algum de nossos colaboradores entrará em contato com você**\n\n* __**No mínimo 3 dias úteis para entrega!**__\n\n<:bolinhaUmbrella:1125258761360121977> **ALGUMAS REGRAS IMPORTANTES** <:bolinhaUmbrella:1125258761360121977>\n\n> __Não flodar no ticket__\n> __Não marque a staff muitas vezes__\n> __Não abra ticket sem necessidade__",
-                "banner": "https://imgur.com/J6oRj6N.png",
-                "emoji": "<a:AlertaUmbrella:996202838227157042>"
+                "predesc": "Tire dúvidas ou proponha parcerias!",
+                "desc": "## 🤝 Dúvidas & Parcerias\n\n> **Sua solicitação foi recebida! Nossa equipe entrará em contato em breve.**\n\n*__Prazo médio de resposta: até 3 dias úteis__*\n\n:star: **Regras Importantes** :star:\n- Não flode no ticket\n- Não marque a staff repetidamente\n- Não abra ticket sem necessidade",
+                "banner": "https://i.imgur.com/1Q9Z1ZB.png",
+                "emoji": "🤝"
             },
             "Boost": {
-                "predesc": "Resgate suas recompensas boosters!",
-                "desc": "## <a:BoostUmbrella:996203394064728125> Booster\n\n> **A equipe já está ciente da abertura de seu ticket, em breve algum de nossos colaboradores entrará em contato com você**\n\n* __**No mínimo 3 dias úteis para entrega!**__\n\n<:bolinhaUmbrella:1125258761360121977> **ALGUMAS REGRAS IMPORTANTES** <:bolinhaUmbrella:1125258761360121977>\n\n> __Não flodar no ticket__\n> __Não marque a staff muitas vezes__\n> __Não abra ticket sem necessidade__",
-                "banner": "https://imgur.com/J6oRj6N.png",
-                "emoji": "<a:BoostUmbrella:996203394064728125>"
+                "predesc": "Resgate suas recompensas de booster!",
+                "desc": "## 🚀 Booster\n\n> **Sua solicitação foi recebida! Nossa equipe entrará em contato em breve.**\n\n*__Prazo médio de entrega: até 3 dias úteis__*\n\n:star: **Regras Importantes** :star:\n- Não flode no ticket\n- Não marque a staff repetidamente\n- Não abra ticket sem necessidade",
+                "banner": "https://i.imgur.com/1Q9Z1ZB.png",
+                "emoji": "🚀"
             },
             "Pronta Entrega": {
-                "predesc": "Encomende seus peds pronta entrega!",
-                "desc": "## <:UmbrellaCompra:1125259501302452346> Pronta Entrega\n\n> **A equipe já está ciente da abertura de seu ticket, em breve algum de nossos colaboradores entrará em contato com você**\n\n<:bolinhaUmbrella:1125258761360121977> **ALGUMAS REGRAS IMPORTANTES** <:bolinhaUmbrella:1125258761360121977>\n\n> __Não flodar no ticket__\n> __Não marque a staff muitas vezes__\n> __Não abra ticket sem necessidade__\n\n* __**No mínimo 3 dias úteis para entrega!**__",
-                "banner": "https://imgur.com/J6oRj6N.png",
-                "emoji": "<:UmbrellaCompra:1125259501302452346>"
+                "predesc": "Solicite itens de pronta entrega!",
+                "desc": "## 📦 Pronta Entrega\n\n> **Sua solicitação foi recebida! Nossa equipe entrará em contato em breve.**\n\n:star: **Regras Importantes** :star:\n- Não flode no ticket\n- Não marque a staff repetidamente\n- Não abra ticket sem necessidade\n\n*__Prazo médio de entrega: até 3 dias úteis__*",
+                "banner": "https://i.imgur.com/1Q9Z1ZB.png",
+                "emoji": "📦"
             }
         },
         "button": false,
